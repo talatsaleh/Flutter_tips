@@ -3,7 +3,7 @@
 This repository is my personal documentation of Flutter tips, tricks, patterns, and bugs I've solved during development. I created it so I can easily revisit solutions and insights in the future.
 
 ## 📚 Index
-1. [The Usage of `OvelayEntry` to Create Custom DropDownMenu or Button](overly_entery/overly_entry.md)
+1. [The Usage of `OvelayEntry` to Create Custom DropDownMenu or Button](tips/overly_entery/overly_entry.md)
 
 ---
 
